@@ -145,12 +145,13 @@
     <a href="#" class="btn btn-secondary">View More</a>
   </div>
 </div>
+          </div>
       </div>
 
   </div>
-  <div class="col-md-2">
+  <div class="col-md-2 bg-secondary">
     <!-- sidenav -->
-    <h1>hey</h1>
+  
   </div>
 </div>
 
@@ -160,9 +161,9 @@
 
 
 <!-- last child -->
-<!--<div class="bg-info p-3 text-center">
+<div class="bg-info p-3 text-center">
   <p>All rights reserved</p>
-</div>-->
+</div>
   </div>
   
 
